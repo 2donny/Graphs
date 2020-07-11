@@ -1,0 +1,14 @@
+#graph-sheet {
+    width: 800px;
+    height: 600px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    position: relative;
+}
+
+.dot {
+    width: 2px;
+    height: 2px;
+    background-color: blue;
+    position: absolute;
+}
